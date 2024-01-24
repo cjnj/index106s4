@@ -1,0 +1,18 @@
+main
+{
+    display: flex;
+    height: calc(100vh - 37px);
+    flex-direction: row;
+}
+
+#sectionA 
+{
+    background-color: #024c97;
+    flex: 8;
+}
+
+#sectionB 
+{
+    background-color: #565085;    
+    flex: 6;
+}
